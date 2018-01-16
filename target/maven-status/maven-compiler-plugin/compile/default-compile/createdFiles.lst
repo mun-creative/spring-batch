@@ -1,0 +1,5 @@
+com\medha\batch\mapper\TutorialFieldSetMapper.class
+com\medha\batch\model\Tutorials.class
+com\medha\batch\model\Tutorial.class
+com\medha\batch\SpringbatchXMLToSQL\App.class
+com\medha\batch\processor\CustomItemProcessor.class
